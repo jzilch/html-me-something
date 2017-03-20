@@ -6,7 +6,9 @@ body {
 	background-color: #034314;
 	font-size: 65%;
 }
-
+h1.title{
+	color: #3B0D0D;
+}
 header,
 main,
 footer {
